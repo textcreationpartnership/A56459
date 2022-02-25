@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pindarique on the death of our late sovereign Charles II. of blessed memory by Sir John Parsons, Bart.</title>
+            <author>Parsons, John, Sir, 1656?-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56459</idno>
+            <idno type="STC">Wing P561</idno>
+            <idno type="STC">ESTC R14796</idno>
+            <idno type="EEBO-CITATION">13026458</idno>
+            <idno type="OCLC">ocm 13026458</idno>
+            <idno type="VID">96695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 395:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pindarique on the death of our late sovereign Charles II. of blessed memory by Sir John Parsons, Bart.</title>
+                  <author>Parsons, John, Sir, 1656?-1704.</author>
+               </titleStmt>
+               <extent>[3], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Brewster ...,</publisher>
+                  <pubPlace>Londod [sic] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96695:1"/>
+            <pb facs="tcp:96695:1" rendition="simple:additions"/>
+            <p>A Pindarique ON THE DEATH OF OUR LATE SOVEREIGN CHARLES II. Of Bleſſed Memory.</p>
+            <p>By Sir <hi>John Parſons</hi> Bar<hi rend="sup">t</hi>.</p>
+            <p>
+               <hi>LONDOD:</hi> Printed for <hi>Edward Brewſter,</hi> at the <hi>Crane</hi> in St. <hi>Pauls</hi> Church-Yard. 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:96695:2"/>
+            <pb n="1" facs="tcp:96695:2" rendition="simple:additions"/>
+            <head>A Pindarique ON THE DEATH OF OUR LATE Dear Sovereign.</head>
+            <lg n="1">
+               <head>
+                  <hi>Stanza</hi> I.</head>
+               <l>O Fate, what has thy erring hand perform'd!</l>
+               <l>How many tearleſs Victims haſt thou made,</l>
+               <l>Waſted in ſighs,</l>
+               <l>Wept to no uſe of Eyes!</l>
+               <l>Cou'd but thy angry doom have ſtai'd,</l>
+               <l>
+                  <pb n="2" facs="tcp:96695:3"/>Millions of Subjects ſhou'd have been form'd,</l>
+               <l>Since here were none</l>
+               <l>That cou'd attone,</l>
+               <l>Not one of which, but wou'd have bleſt</l>
+               <l>The hour, you had given him his Eternal Reſt;</l>
+               <l>Had you but ſpar'd Our God! Our Prince! Our King!</l>
+               <l>Ah! from whence can this dire hardſhip ſpring?</l>
+               <l>Nay, of the fair kind too, you ſhou'd have had</l>
+               <l>Numbers that wou'd have heartily been glad</l>
+               <l>In their full tide of Youth, and beauty's bliſs,</l>
+               <l>To have exchang'd their Lives for his:</l>
+               <l>So Great! ſo Good! ſo kind to all!</l>
+               <l>His was a Univerſal fall!</l>
+               <l>Who therefore Saviour like wou'd not have dy'd,</l>
+               <l>To have repriev'd a wretched World beſide!</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Not from their doubts and needleſs fears,</l>
+               <l>But from their hearty ſighs and tears,</l>
+               <l>From all the ſad reflections thought can bring,</l>
+               <l>Of ſo belov'd a Monarch, ſuch a King.</l>
+               <l>
+                  <pb n="3" facs="tcp:96695:3"/>Take him apart from all his Power,</l>
+               <l>As doth His mighty Succeſſor,</l>
+               <l>Survey their vertues all.</l>
+               <l>Their Greatneſs in their Affability,</l>
+               <l>Their <hi>Maxims,</hi> Notions, and Philoſophy,</l>
+               <l>With their Inimitable Company,</l>
+               <l>In ev'ry act and thought, the Gentleman ſo much in gen'ral.</l>
+               <l>The knowing World cou'd ne'r diſpute,</l>
+               <l>Were there no Succeſſion, Right, or Laws,</l>
+               <l>Their Virtues alone had made them abſolute,</l>
+               <l>Gain'd ſure the firſt, confirm'd our Second's Cauſe.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>But to return</l>
+               <l>To th' Prince we mourn!</l>
+               <l>Let him be Dumb that ſpeaks his Praiſe</l>
+               <l>With leſs Devotion than his Altars raiſe.</l>
+               <l>Let baffl'd Nature weep, th' Element diſſolve into a tear,</l>
+               <l>And with their liquid ſorrow drown the preſent Year.</l>
+               <l>
+                  <pb n="4" facs="tcp:96695:4"/>For methinks when ſummon'd ſuch a Monarch is to dye,</l>
+               <l>The Earth ſhou'd quake, and in Convulſion bear</l>
+               <l>Us Mortals, with an equal fear;</l>
+               <l>And Thunder ſhould deform the Sky;</l>
+               <l>And no doubt't had been, but that the Powers Above,</l>
+               <l>Which ever did his Royal Perſon Love,</l>
+               <l>Thoughtleſs with joy for ſuch a pleaſure to receive,</l>
+               <l>Forgot the manner of his taking leave.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Make him amends ye Powers, ye have him now;</l>
+               <l>And fancy not you can too much beſtow;</l>
+               <l>He was an Angel here,</l>
+               <l>And muſt be more than Angel there: Hearts,</l>
+               <l>Nor can you tear him from his Throne, and Subjects</l>
+               <l>And not reſtore him all his vaſt Deſerts!</l>
+               <l>Give him but leave to ſhine, which he will do,</l>
+               <l>Where e're he comes, to grace and credit you;</l>
+               <l>And as heretofore 'twas own'd, confeſs'd,</l>
+               <l>Recorded in immortal Verſe,</l>
+               <l>
+                  <pb n="5" facs="tcp:96695:4" rendition="simple:additions"/>Ours, to be the Monarch of the Univerſe,</l>
+               <l>With other Princes Adorations bleſs'd,</l>
+               <l>And nothing cou'd be thought or done abroad,</l>
+               <l>But muſt be firſt conſulted with our God;</l>
+               <l>So, mark but the difference now he comes above to ſhine,</l>
+               <l>His! with the Soul of any Royal Line,</l>
+               <l>And they'l ne're thank you for his Company,</l>
+               <l>Who make ſo much a brighter Deity:</l>
+               <l>Nay, take the whole race of Princes to your aid,</l>
+               <l>Muſter your Divinities,</l>
+               <l>And in the high Robe of Heaven dreſs</l>
+               <l>The Soul of ev'ry Prince and Princeſs,</l>
+               <l>Great <hi>CHARLES,</hi> naked as he left our Land,</l>
+               <l>In him ſo much Majeſty appears,</l>
+               <l>Such were his Virtues, and his Anceſtors,</l>
+               <l>He will outſhine you all, and ſtill command.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>With a Godlike Patience here he Sway'd;</l>
+               <l>And in his very Sickneſs,</l>
+               <l>Which did attack him in ſuch ſtrange Exceſs,</l>
+               <l>The Hero bore ſo well the ſad Diſtreſs,</l>
+               <l>
+                  <pb n="6" facs="tcp:96695:5"/>He humour'd the Diſtemper he obey'd,</l>
+               <l>Not to Inſinuate, but bring on the doom that ſtay'd.</l>
+               <l>In all's Behaviour no Reluctance cou'd be ſeen,</l>
+               <l>When's Eyes burſt Fire, his Mind was all Serene,</l>
+               <l>And with a ſenſible and quiet Courage bore</l>
+               <l>That torrent Death, that wafts him to the ſhore,</l>
+               <l>To th' promis'd Land, which other Princes do inherit</l>
+               <l>For all their toil of heavy Government,</l>
+               <l>Their hours of anxious Thought and Diſcontent,</l>
+               <l>Which our great Saint did almoſt always ſhare,</l>
+               <l>With Factious ſlaves, that only wou'd obey for fear;</l>
+               <l>So that our Prince makes ſure his double claim,</l>
+               <l>Not from his Titles only, or his Name,</l>
+               <l>But from his Immenſe and everlaſting merit.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>And now Great <hi>JAMES,</hi> whoſe Royal word is Fate;</l>
+               <l>Whom to ſerve well, is to be bleſs'd, and great;</l>
+               <l>To you I bring a Dying Muſe that wants Relief;</l>
+               <l>To you, O ſaced Sir, She flies, as big with Grief.</l>
+               <l>
+                  <pb n="7" facs="tcp:96695:5" rendition="simple:additions"/>But O what Comfort can She hope to find,</l>
+               <l>From ſo afflicted, ſo diſtreſs'd a Mind!</l>
+               <l>Never did Prince bewail ſo much three Kingdoms gain,</l>
+               <l>And tho every heart ſeems bent</l>
+               <l>To him, and's Sacred Government,</l>
+               <l>He can't enjoy it yet, but wears his Crown in Pain,</l>
+               <l>There's none that will, but may read his vaſt Concern,</l>
+               <l>And from his Natural Love, and Princely Carriage Learn.</l>
+               <l>And now my Muſe forbear, retire, and grieve no more;</l>
+               <l>Since you ſee Kings are Mortal Men,</l>
+               <l>'Tis moſt true the one, Great <hi>CHARLES!</hi>
+               </l>
+               <l>We heartily deplore.</l>
+               <l>And 'tis as true, in <hi>JAMES,</hi> we have that one agen.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
